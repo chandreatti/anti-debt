@@ -16,7 +16,7 @@ Project Status
 <br>
 
 
-<a href="#"><img width="100%" height="auto" src="./image/anti-debt.png" height="175px"/></a>
+![anti-debt](./image/anti-debt.png)
 
 
 ## 📋 Table of contents
