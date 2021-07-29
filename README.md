@@ -16,7 +16,7 @@ Project Status
 <br>
 
 
-![anti-debt](./image/anti-debt.png)
+![anti-debt](./image/anti-debt.PNG)
 
 
 ## 📋 Table of contents
