@@ -34,13 +34,20 @@ Project Status
 <!--te-->  
   
 
-## 💻 About  
+## 💻 About
+
+
+Anti-debt is a project to help people organize spending and avoid debts.
   
 
 ## 🛠 Tools
   
 
-The following tools were used in the construction of the project:  
+The following tools were used in the construction of the project:
+
+
+* Power BI
+* Excel
   
 
 ## ⚙️ Features
@@ -49,15 +56,15 @@ The following tools were used in the construction of the project:
 ## ⚠️ Pre-requisites
   
 
-For correct project execution, the following prerequisites must be attend:  
+For correct project execution, the following prerequisite must be attend:  
   
 
- - [x] Condition 1  
- - [x] Condition 2  
-  
+ - [x] Power BI Desktop
+ - [x] Excel
+
 
 ## 🚀 How it works 
-  
+ 
 
 ## 💪 How to contribute  
 
