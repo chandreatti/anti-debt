@@ -7,7 +7,7 @@ Project Status
 </h2>
 
 <h4 align="center">  
-🚧 Developing 🚧  
+🚀 Finished 🚀  
 </h4>  
 
 <br>
@@ -32,7 +32,7 @@ Project Status
 
 ## 💻 About
 
-Anti-debt is a project to help people organize spending and avoid debts.
+Anti-debt is a project to help people organize spendings and avoid debts.
 
 <br>
   
@@ -56,6 +56,18 @@ For correct project execution, the following prerequisite must be attend:
 <br>
 
 ## 🚀 How it works
+The project is divided in two steps:
+
+* Data collect
+* Data analyze
+
+The first step is data collect, user pass his financial activities in worksheet “fluxo-financeiro”
+
+The second step is data analyze, the dashboard “anti-debt” use the worksheet “fluxo-financeiro” like data source and give some insights for the user, insights like:
+
+* Spendings throughout the month
+* Total spendings
+* Spendings table
 
 <br>
 
