@@ -45,6 +45,8 @@ The second step is data analyze, the dashboard “anti-debt” use the worksheet
 * Total spendings
 * Spendings table
 
+Access to [Anti-Debt](https://app.powerbi.com/view?r=eyJrIjoiZTY4N2Q1ZGMtOGEzOC00ZDFmLTgyODYtNjE4MzdkNWI1OWQxIiwidCI6IjA5ODFkMTdkLTFmYzItNDFjNy04MDE1LWQwZjljNTM2MGM1NiJ9)
+
 ## 💪 How to contribute  
 
 1. Fork the project.
